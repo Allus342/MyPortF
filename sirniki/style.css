@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(135, 135, 135);
+}
+
+p {
+    background-color: rgb(205, 205, 205);
+    font-size: 25px;
+    font-weight: 400;
+    font-family: "WDXL Lubrifont JP N", sans-serif;
+    
+}
+
+ul {
+    background-color: rgb(205, 205, 205);
+    color: #4f0000;
+    font-size: 30px;
+    font-family: "Great Vibes", cursive;
+}
+
+ol {
+    background-color: rgb(205, 205, 205);
+    color: #4f0000;
+    font-size: 30px;
+    font-family: "Great Vibes", cursive;
+}
+
+.popo {
+    background-color: blueviolet;
+    font-size: 35px;
+}
+
+.news {
+    font-size: 50px;
+    background-color: #a70000;
+}
+
+a {
+    font-size: 30px;
+    color: rgb(214, 170, 170);
+}
+.ggy {
+    color: #ff6600;
+    font-weight: 800;
+}
+h1 {
+    font-family: "WDXL Lubrifont JP N", sans-serif;
+    font-size: 50px;
+}
+
+.itb {
+    font-family: "Amatic SC", sans-serif;
+}
+
+.popo {
+    border-radius: 10px;
+}
